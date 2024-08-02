@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VISHAL - @vishal1011001
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning C++
 - well I am just a beginner
 - 📫 How to reach me - Email - vishaljakhar2004@gmail.com
 
