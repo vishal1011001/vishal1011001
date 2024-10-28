@@ -1,13 +1,11 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1280/0*-u0b7K0Q6zfBcQqT.gif)
 <h1 align="center">V I S H A L</h1>
-<h3 align="center">C++ DEV</h3>
+<h3 align="center">C++ DEVELOPER</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1011001&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1011001" /> </p>
 
 - 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **C++, MySQL**
 
 - 📫 How to reach me **vishaljakharbusinessmail@gmail.com**
 
