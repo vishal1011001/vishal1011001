@@ -1,16 +1,13 @@
-# Hi 👋, I'm Vishal Jakhar
-
 **Full Stack Web Developer | MERN Stack**
 
-## 🌱 I'm currently learning
-
-Learning MERN Stack
+## I'm currently learning
+MERN Stack
 
 ## 👀 Visitor Count
 
 <!-- ⚠️ Important: Replace 'vishal1011001' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/vishal1011001/count.svg" />
+  <img src="https://profile-counter.glitch.me/github.com/vishal1011001/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
