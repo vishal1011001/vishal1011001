@@ -1,72 +1,81 @@
-<h1 align="center">V I S H A L</h1>
+# Hi 👋, I'm Vishal Jakhar
 
-###
+**Full Stack Web Developer | MERN Stack**
 
-<h4 align="center">Full Stack Developer | Problem Solver</h4>
+## 🌱 I'm currently learning
 
-###
+Learning MERN Stack
 
-<h6 align="left">TECH STACK</h6>
+## 👀 Visitor Count
 
-###
+<!-- ⚠️ Important: Replace 'vishal1011001' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vishal1011001/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'vishal1011001' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal1011001&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'vishal1011001' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal1011001&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+## 🔝 Most Used Languages
 
-<h6 align="left">Connect</h6>
-
-###
-
+<!-- ⚠️ Important: Replace 'vishal1011001' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal1011001&layout=compact&langs_count=10&theme=default"/>
 </div>
 
-###
+## 🔥 Contribution Streak
 
-<h6 align="left">STATS</h6>
-
-###
-
+<!-- ⚠️ Important: Replace 'vishal1011001' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal1011001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vishal1011001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1011001&theme=default&hide_border=false" />
 </div>
 
-###
+## 💻 Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal1011001/vishal1011001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal1011001/vishal1011001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishal1011001/vishal1011001/output/pacman-contribution-graph.svg">
-</picture>
+### 🎨 Frontend
 
-###
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-jakhar-566370284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vishal1011001) 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="left">
+
+📧 **Email:** [vishaljakhar2004@gmail.com](mailto:vishaljakhar2004@gmail.com)
+
+</div>
+
+---
+⭐️ From [Vishal Jakhar](https://github.com/vishal1011001)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vishal1011001/count.svg" alt="Visitor Count" />
+</div>
