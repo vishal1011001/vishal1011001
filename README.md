@@ -1,4 +1,5 @@
 <h1 style="align-items: center;">VISHAL JAKHAR</h1>
+
 # 💫 About Me:
 A passionate Full Stack Developer, interested in designing interactive Websites and WebApps.
 
