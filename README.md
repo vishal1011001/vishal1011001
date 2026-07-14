@@ -18,10 +18,10 @@ Building scalable backend applications with Python while exploring AI, RAG, and 
 
 <table>
 <tr>
-<td align="center">
+<td>
 <img width="500" height="360" alt="gif1" src="https://github.com/user-attachments/assets/e5f1a877-0775-4651-92c1-0bbd357e2ea5" />
 </td>
-<td align="center">
+<td>
 <img width="455" height="350" alt="gif2" src="https://github.com/user-attachments/assets/e979cf0e-836c-460f-938f-c94cdbcfc50b" />
 </td>
 </tr>
