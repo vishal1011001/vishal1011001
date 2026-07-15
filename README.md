@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer | Backend Developer | FastAPI Enthusiast
 
-Building scalable backend applications with Python while exploring AI, RAG, and modern web technologies.
+Building scalable backend applications with Python, Frontend in ReactJS, and exploring modern software building technologies.
 
 <br>
 
