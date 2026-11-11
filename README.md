@@ -2,9 +2,9 @@
 
 ## Vishal Jakhar
 
-### Full Stack Engineer | Backend Developer | FastAPI Enthusiast
+### Full Stack Engineer | FastAPI | Postgres | React
 
-Building scalable backend applications with Python, Frontend in ReactJS, and exploring modern software building technologies.
+Building scalable backend applications with Python FastAPI, Frontend in ReactJS, and exploring modern software building technologies.
 
 <br>
 
