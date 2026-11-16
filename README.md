@@ -73,6 +73,13 @@ Building scalable backend applications with Python FastAPI, Frontend in ReactJS,
 
 <div align="center">
 
+<a href="https://gitscore.live/vishal1011001">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/vishal1011001?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/vishal1011001?style=card" alt="GitScore for vishal1011001" />
+  </picture>
+</a>
+
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=vishal1011001&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=vishal1011001&theme=dark&hide_border=true"/>
